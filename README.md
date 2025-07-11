@@ -25,3 +25,5 @@ A real-time, responsive **global news blog** built using **HTML**, **CSS**, and 
 Clone the repo:
 ```bash
 git clone https://github.com/globalNews-x/global-news.git
+
+Trigger Pages rebuild
